@@ -1,0 +1,8 @@
+for next time:
+-new repository in github (you can add files to this): caleb-smith-95/dmp2022
+
+Command prompt functions
+-dir
+-cd
+
+Install git

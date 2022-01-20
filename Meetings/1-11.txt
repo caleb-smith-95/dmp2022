@@ -1,0 +1,7 @@
+what does success mean to you?
+
+-git and github
+-cloud computing
+-python
+-medium article
+-Visual Studio Code (uninstall Visual Studio)

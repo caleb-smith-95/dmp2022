@@ -1,0 +1,9 @@
+Directed Masters Goals:
+
+-Determine the effect that age has on player performance in the NFL
+-Gain a greater understanding of the Python programming language to prepare me for my upcoming
+ career as a Data Scientist
+-Learn completely new topics that will be important to my career, such as Github, Python
+-libraries and Cloud Computing (and anything else the advisor might find relevant)
+-Create a brief article or presentation that communicates the results of my project to a
+ non-technical audience, and that can be accessed by future employers

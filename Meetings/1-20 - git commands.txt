@@ -1,0 +1,10 @@
+volume vs. efficiency (does age effect one more than the other)
+-"yds1000" does a better job measuring efficiency, "final_passing" does better with volume
+
+more Command Prompt code
+-git init: creates git folder
+-git add -A: stages the file, -A adds all files
+-git commit -m: saves to git, add message after -m
+-git push: pushes it to github
+
+for Tuesday: save second version of work to github

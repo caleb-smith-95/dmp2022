@@ -3,3 +3,8 @@ volume vs. efficiency (does age effect one more than the other)
 
 more Command Prompt code
 -git init: creates git folder
+-git add: stages the file
+-git commit: saves to git
+-git push: pushes it to github
+
+for Tuesday: save second version of work to github

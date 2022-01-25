@@ -7,3 +7,4 @@ Directed Masters Goals:
 -libraries and Cloud Computing (and anything else the advisor might find relevant)
 -Create a brief article or presentation that communicates the results of my project to a
  non-technical audience, and that can be accessed by future employers
+-hi

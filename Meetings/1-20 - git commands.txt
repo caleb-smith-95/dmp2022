@@ -7,4 +7,6 @@ more Command Prompt code
 -git commit -m: saves to git, add message after -m
 -git push: pushes it to github
 
+-git status: check status of objects in your CPU folder
+
 for Tuesday: save second version of work to github
